@@ -1,9 +1,9 @@
 
 # 🚀 Landing Page  
-### *A Professional & Responsive Webpage Built with HTML, CSS & JavaScript*
+### *A Professional & Responsive Webpage Built with HTML, CSS *
 
 
-**Landing Page** is a modern, clean, and fully responsive web layout designed using **HTML, CSS & JavaScript**.  
+**Landing Page** is a modern, clean, and fully responsive web layout designed using **HTML, CSS **.  
 Perfect for product showcases, portfolios, promotions, or business intros — easy to customize and extend!
 
 
@@ -23,7 +23,7 @@ Perfect for product showcases, portfolios, promotions, or business intros — ea
 
 🟧 **HTML5**  
 🟦 **CSS3**  
-🟨 **JavaScript**
+
 
 These core web technologies make it easy to understand, modify & enhance.
 
@@ -32,10 +32,8 @@ These core web technologies make it easy to understand, modify & enhance.
 ## 📁 Project Structure
 
 📦 LANDING-PAGE
-┣ 📂 assets → Images, icons & other media
 ┣ 📜 index.html → Main webpage
 ┣ 📜 style.css → Styling & layout
-┣ 📜 script.js → Interactions & behavior
 ┗ 📜 README.md → Project documentation
 
 
